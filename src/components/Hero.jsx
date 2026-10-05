@@ -23,7 +23,7 @@ export const Hero = () => {
             />
 
             <div className="absolute inset-0 bg-bg-dark/80" />
-            <div className="absolute inset-0 bg-indigo-800 mix-blend-color" saturate-50 />
+            <div className="absolute inset-0 bg-indigo-700 mix-blend-color" saturate-50 />
 
             <div className="relative z-10 h-full flex flex-col items-center justify-center gap-6 px-6 text-center">
                 <img src="/candlebyte.png" alt="CandleByte Interactive" className="w-32 sm:w-70" />

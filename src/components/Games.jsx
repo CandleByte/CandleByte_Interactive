@@ -14,7 +14,7 @@ export const Games = () => {
         <section id="games" className="scroll-mt-16 py-24 bg-bg-dark">
             <div className="max-w-6xl mx-auto px-6">
 
-                <h2 className="font-tech text-4xl tracking-tight text-ice">Games</h2>
+                <h2 className="font-tech text-6xl tracking-tight text-ice">Games</h2>
 
                 <div className="grid md:grid-cols-2 gap-8 mt-12">
                     {games.map((game) => (
